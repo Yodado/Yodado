@@ -13,9 +13,9 @@
 </picture>
 
 Aqui estão algumas informações sobre mim:
-- 🔭 Atualmente trabalho estou como trainee atuando com UX/UI  
+- 🔭 Sou formado em Engenharia de Produção, porém atualmente estou como trainee atuando com UX/UI em uma importadora e distribuidora de pneus.
 - 🌱 Estou estudando Javascritp/Google App Script, Typescript, Html, CSS e Python.
-- 👯 Realizei minha transição de carreira para tecnologia em 2023.
+- 👯 Realizando minha transição de carreira para tecnologia em 2023.
 - 🤔 Contate-me no e-mail danielsiqueiraroumillac@gmail.com
 
 <div style="display: inline_block"><br>
