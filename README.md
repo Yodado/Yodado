@@ -14,7 +14,7 @@
 
 Aqui estão algumas informações sobre mim:
 - 🔭 Atualmente trabalho estou como trainee atuando com UX/UI  
-- 🌱 Estou estudando Javascritp/Google App Script, Html, CSS e Python.
+- 🌱 Estou estudando Javascritp/Google App Script, Typescript, Html, CSS e Python.
 - 👯 Realizei minha transição de carreira para tecnologia em 2023.
 - 🤔 Contate-me no e-mail danielsiqueiraroumillac@gmail.com
 
